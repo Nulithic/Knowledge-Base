@@ -1,5 +1,6 @@
 {
   "name": "knowledge_base",
+  "homepage": "https://supportcartridge.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
