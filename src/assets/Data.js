@@ -36,52 +36,52 @@ const Issues = [
 
 export const Inks = [
   {
-    Model: "ONN HP 61/61XL",
+    Model: "HP 61/61XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2], Issues[3]],
   },
   {
-    Model: "ONN HP 62/62XL",
+    Model: "HP 62/62XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2], Issues[3]],
   },
   {
-    Model: "ONN HP 63/63XL",
+    Model: "HP 63/63XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },
   {
-    Model: "ONN HP 64/64XL",
+    Model: "HP 64/64XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },
   {
-    Model: "ONN HP 65/65XL",
+    Model: "HP 65/65XL - Remanufactured",
     Video: "https://www.youtube.com/embed/tLgovMsroXg",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },
   {
-    Model: "ONN HP 564XL",
+    Model: "HP 564XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },
   {
-    Model: "ONN HP 902XL",
+    Model: "HP 902XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },
   {
-    Model: "ONN HP 950XL/951XL",
+    Model: "HP 950XL/951XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },
   {
-    Model: "ONN Canon 240XL/241XL",
+    Model: "Canon 240XL/241XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },
   {
-    Model: "ONN Canon 245XL/246XL",
+    Model: "Canon 245XL/246XL - Remanufactured",
     Video: "",
     Issues: [Issues[0], Issues[1], Issues[2]],
   },

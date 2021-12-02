@@ -66,7 +66,7 @@ const Navbar = props => {
           <MenuItem to="/">Home</MenuItem>
           <MenuItem to="/tips">Tips</MenuItem>
           <MenuItem to="/faqs">FAQs</MenuItem>
-          <MenuItem to="/support">Support</MenuItem>
+          <MenuItem to="/contact">Contact</MenuItem>
           <MenuItem to="/privacy">Privacy</MenuItem>
           <ColorModeSwitcher justifySelf="flex-end" />
         </Stack>
